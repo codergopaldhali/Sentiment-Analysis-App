@@ -96,5 +96,4 @@ Sentiment-Analysis-App/
 Gopal Dhali
 
 ## License
-
-MIT License
+Your README content here
